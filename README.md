@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nom-xd
 - 👀 I’m interested in games, puzzles, and coding
-- 🌱 I’m currently learning Kotlin
+- 🌱 I’m currently learning Kotlin and Lean
 - 😄 Pronouns: they/them
 
 <!---
